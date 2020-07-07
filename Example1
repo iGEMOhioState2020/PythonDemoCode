@@ -1,0 +1,53 @@
+# Helpful Python cheatsheet: https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-syntax/cheatsheet
+# arithmetic examples
+print("Output from aritmetic examples:")
+a = 3 + 2
+b = 5 - 9
+c = 3 * 5
+d = 5/2
+e = 4 % 2
+f = 4 ** 0.5
+print(a)
+print(b)
+print (c)
+print (d)
+print (e)
+print (f)
+
+
+#loops
+print("\nOutput from for loop with nested if/elif/else:")
+names = ['Annie', 'Lindsey', 'Megan', 'Lizzie', 'Satvik', 'Ankit', 'Jacob', 'Nate', 'Peter']
+for each in names:
+    if len(each) <= 4:
+        print("\t" + each + " has a short name.")
+    elif len(each) >= 7:
+        print("\t" + each + " has a long name.")
+    else:
+        print("\t" + each + " has a medium length name.")
+
+print("\nOutput from while loop with nested if/elif/else:")
+x = 0
+while (x < len(names)):
+    if len(names[x]) <= 4:
+        print("\t" + names[x] + " has a short name.")
+    elif len(names[x]) >= 7:
+        print("\t" + names[x] + " has a long name.")
+    else:
+        print("\t" + names[x] + " has a medium length name.")
+
+    x += 1
+
+# function declaration
+def printLength(each):
+    if len(each) <= 4:
+        print("\t" + each + " has a short name.")
+    elif len(each) >= 7:
+        print("\t" + each + " has a long name.")
+    else:
+        print("\t" + each + " has a medium length name.")
+
+# function used
+print("\nOutput from for loop with function:")
+for each in names:
+    printLength(each)
