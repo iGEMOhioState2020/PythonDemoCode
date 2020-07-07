@@ -49,7 +49,7 @@ def printLength(each):
 
 # function used
 print("\nOutput from for loop with function:")
-for each in names:
-    printLength(each)
+for x in names:
+    printLength(x)
 
 # this is how you comment
