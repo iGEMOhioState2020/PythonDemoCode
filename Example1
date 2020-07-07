@@ -51,3 +51,5 @@ def printLength(each):
 print("\nOutput from for loop with function:")
 for each in names:
     printLength(each)
+
+# this is how you comment

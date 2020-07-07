@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b0577cf-b639-4be7-9a4e-dcc2f7a15170" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eLI7UKZEYx7AgRVOyazxCcTHCJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Example1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PythonDemoCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/exampleCode/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Example1" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b0577cf-b639-4be7-9a4e-dcc2f7a15170" name="Default Changelist" comment="" />
+      <created>1594094278868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594094278868</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="56" key="#Unnamed" timestamp="1594095853406">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state x="640" y="56" key="#Unnamed/0.23.1440.840@0.23.1440.840" timestamp="1594095853406" />
+    <state x="369" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594095933054">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state x="369" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.840@0.23.1440.840" timestamp="1594095933054" />
+    <state width="973" height="217" key="GridCell.Tab.0.bottom" timestamp="1594095935257">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state width="973" height="217" key="GridCell.Tab.0.bottom/0.23.1440.840@0.23.1440.840" timestamp="1594095935257" />
+    <state width="973" height="217" key="GridCell.Tab.0.center" timestamp="1594095935257">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state width="973" height="217" key="GridCell.Tab.0.center/0.23.1440.840@0.23.1440.840" timestamp="1594095935257" />
+    <state width="973" height="217" key="GridCell.Tab.0.left" timestamp="1594095935257">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state width="973" height="217" key="GridCell.Tab.0.left/0.23.1440.840@0.23.1440.840" timestamp="1594095935257" />
+    <state width="973" height="217" key="GridCell.Tab.0.right" timestamp="1594095935257">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state width="973" height="217" key="GridCell.Tab.0.right/0.23.1440.840@0.23.1440.840" timestamp="1594095935257" />
+    <state x="608" y="187" width="670" height="676" key="search.everywhere.popup" timestamp="1594094452716">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state x="608" y="187" width="670" height="676" key="search.everywhere.popup/0.23.1440.840@0.23.1440.840" timestamp="1594094452716" />
+  </component>
+</project>
